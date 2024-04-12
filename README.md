@@ -12,4 +12,4 @@ This Tool Specially Developed For Bombing Bkash Varification Code ⚡In All Bkas
     python BKASH-X_v1.0.py
 
 
-# ! [JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
+# [JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
